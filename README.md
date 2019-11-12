@@ -34,6 +34,7 @@ To use the model you need
 3. An adjacency matrix which encodes the structure as a graph.
 
 To use the GCN model given by Kipf, keep the K hyper parameter to 1 and implement the renormalization to your graph. 
+Data Can be sent individually because it is too large for Github. 
 
 ## Refrence 
 Please perfer to https://github.com/mdeff/cnn_graph for installation and other value sources about the topic.
