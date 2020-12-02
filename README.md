@@ -36,5 +36,8 @@ To use the model you need
 To use the GCN model given by Kipf, keep the K hyper parameter to 1 and implement the renormalization to your graph. 
 Data can be sent individually. 
 
+Data can be downloaded at,
+https://drive.google.com/drive/folders/1_Cnvab7mIwCrNJyY-J4aR2ck9i72KH8t?usp=sharing
+
 ## Reference 
 Please perfer to https://github.com/mdeff/cnn_graph for installation and other value sources about the topic.
